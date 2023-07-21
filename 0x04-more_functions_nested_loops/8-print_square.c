@@ -6,6 +6,8 @@
  * @: size of the square
  *
  * Return: void
+ *
+ * @size: size of square
  */
 
 void print_square(int size)
